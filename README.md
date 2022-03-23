@@ -13,6 +13,8 @@ I had already built so many blockchain platforms are based on eth, bsc, solana e
 
 <!-- - 💬 skype : [@STAG](https://join.skype.com/invite/yEdxef6Av6pk); -->
 - 📝 Email : ksenia.zielimska@gmail.com
+- skype: ksenia.zielinska316
+- telegram: kerberos0727
 
 **Languages and Tools:**
 
