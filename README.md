@@ -5,14 +5,13 @@
   
   Hi, I am a full stack blockchain developer having rich experience in blockchain area.
   
-I had already built so many blockchain platforms are based on eth, bsc, solana etc.
+I had already built so many DApp projects like Defi, Dex, Dao and NFT (NFT + Metaverse + Marketplace) are based on ether, bsc, polygon, solana, tron, terra, harmony net.
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
 
 <!-- - 💬 skype : [@STAG](https://join.skype.com/invite/yEdxef6Av6pk); -->
-- 📝 Email : ksenia.zielimska@gmail.com
 - skype: ksenia.zielinska316
 - telegram: kerberos0727
 
@@ -53,4 +52,4 @@ I had already built so many blockchain platforms are based on eth, bsc, solana e
 
 
 
-⭐️ From [SUN262335](https://github.com/SUN262335)
+⭐️ From [kerberos0727](https://github.com/kerberos0727)
