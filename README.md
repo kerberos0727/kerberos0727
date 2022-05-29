@@ -13,7 +13,7 @@ I had already built so many DApp projects like Defi, Dex, Dao and NFT (NFT + Met
 
 <!-- - 💬 skype : [@STAG](https://join.skype.com/invite/yEdxef6Av6pk); -->
 - skype: ksenia.zielinska316
-- telegram: kerberos0727
+- telegram: @kerberos0727
 
 **Languages and Tools:**
 
